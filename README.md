@@ -1,6 +1,9 @@
 # Download latest release [here](https://github.com/DimeDimitrov/cursed-videos-pandemonium/releases/latest)
 
-# Cursed Video Pandemonium
+# Cursed Video Pandemonium!
+
+![banner](https://github.com/DimeDimitrov/cursed-videos-pandemonium/assets/129460051/52a7b66f-d7d4-4603-a8e1-ed931f1e4f94)
+
 
 Cursed Video Pandemonium is a script that floods your screen with a multitude of unsettling and unpredictable videos, creating a chaotic and mesmerizing experience. This GitHub project allows you to customize the app's behavior by modifying settings and adding video links.
 
