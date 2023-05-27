@@ -1,4 +1,4 @@
-# cursed-videos-pandemonium
+# Download latest release [here](https://github.com/DimeDimitrov/cursed-videos-pandemonium/releases/tag/v1.0)
 
 ## A script that floods your screen with a multitude of unsettling and unpredictable videos, creating a chaotic and mesmerizing experience.
 
